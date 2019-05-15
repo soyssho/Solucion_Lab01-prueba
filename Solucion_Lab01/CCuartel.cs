@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Solucion_Lab01
 {
     public class CCuartel
-    {
+    {retirate men
         public string Codigo { get; set; }
         public string NombreCuartel { get; set; }
         public string Direccion { get; set; }
